@@ -1,1 +1,1 @@
-In Deliverable 4, although the challenge instructions didn’t explicitly ask to delete that record in which Wiki and Kaggle have different titles for id=11426 (shown below), I have deleted it anyway to truly clean the data. Hence the movies table has only 5061 records instead of 5062.
+In Deliverable 4, although the challenge instructions didn’t explicitly ask to delete that record in which Wiki and Kaggle have different titles for id=11426, I have deleted it anyway to truly clean the data. Hence the movies table has only 5061 records instead of 5062.
